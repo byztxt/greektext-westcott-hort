@@ -6,7 +6,7 @@ This is the official GitHub home for Dr. Maurice A. Robinson's Greek
 texts with morphological parsing and Strong's numbers.
 
 This repo contains Dr. Robinson's New Testament Greek text of
-Westcott-Hort.
+Westcott and Hort.
 
 ## License?
 
